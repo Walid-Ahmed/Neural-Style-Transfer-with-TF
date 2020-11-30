@@ -31,5 +31,6 @@ optional arguments:
 ![image info](./ezgif.com-gif-maker.gif)
 
 Credits:
-I started the code using the followinf resource 
-Adrian Rosebrock, OpenCV Face Recognition, PyImageSearch, https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/, accessed on 16 April 2019
+
+I started the  intitial code using the followinf resource 
+Adrian Rosebrock, Neural Style Transfer with OpenCV, PyImageSearch, https://www.pyimagesearch.com/2018/08/27/neural-style-transfer-with-opencv/, accessed on 16 April 2019
