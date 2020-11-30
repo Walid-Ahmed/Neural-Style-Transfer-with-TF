@@ -8,7 +8,7 @@ test it with your own video using
 
 
 ```
-python neural\_style\_transfer\_video\_from\_file.py --videoFileName yourvideoFile
+python neural_style_transfer_video_from_file.py --videoFileName yourvideoFile
 ```
 
 Usage python neural\_style\_transfer\_video\_from\_file.py
