@@ -30,3 +30,6 @@ optional arguments:
 
 ![image info](./ezgif.com-gif-maker.gif)
 
+Credits:
+I started the code using the followinf resource 
+Adrian Rosebrock, OpenCV Face Recognition, PyImageSearch, https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/, accessed on 16 April 2019
