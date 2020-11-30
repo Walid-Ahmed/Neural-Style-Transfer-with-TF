@@ -11,7 +11,7 @@ test it with your own video using
 python neural_style_transfer_video_from_file.py --videoFileName yourvideoFile
 ```
 
-'''
+```
 optional arguments:
   -h, --help            show this help message and exit
   --modelsFolder MODELSFOLDER
@@ -26,5 +26,5 @@ optional arguments:
 
 
 
-'''
+```
 
