@@ -28,5 +28,5 @@ optional arguments:
 
 ```
 
-![image info](./pictures/image.png)
+![image info](./ezgif.com-gif-maker.gif)
 
