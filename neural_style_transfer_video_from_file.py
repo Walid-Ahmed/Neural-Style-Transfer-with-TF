@@ -1,6 +1,6 @@
 # USAGE
 # python neural_style_transfer_video_from_file.py --models models  --everyNFrame 10  --videoFileName Shikabala.mp4 --outputFile demo.mp4
-#src https://www.pyimagesearch.com/2018/08/27/neural-style-transfer-with-opencv/
+
 
 
 # import the necessary packages
