@@ -1,10 +1,15 @@
 # Neural-Style-Transfer-with-TF
 
 This code acepts an input video and output the video painted with 9
-neural style transfer models and save the output demo to a file. you can
-test it with your own video using python
-neural\_style\_transfer\_video\_from\_file.py --videoFileName
-yourvideoFile
+neural style transfer models and save the output demo to a file. 
+
+you can
+test it with your own video using 
+
+
+```
+python neural\_style\_transfer\_video\_from\_file.py --videoFileName yourvideoFile
+```
 
 Usage python neural\_style\_transfer\_video\_from\_file.py
 
