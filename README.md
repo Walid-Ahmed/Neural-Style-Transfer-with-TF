@@ -32,5 +32,5 @@ optional arguments:
 
 Credits:
 
-I started the  intitial code using the followinf resource 
+I started the  intitial code using the following resource 
 Adrian Rosebrock, Neural Style Transfer with OpenCV, PyImageSearch, https://www.pyimagesearch.com/2018/08/27/neural-style-transfer-with-opencv/, accessed on 16 April 2019
